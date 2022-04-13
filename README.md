@@ -23,6 +23,9 @@
 ## Stats
 
 <!-- Stats -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pnandez&show_icons=true&theme=radical)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnandez&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/pnandez/github-readme-stats)
 
 
