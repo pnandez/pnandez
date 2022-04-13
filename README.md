@@ -18,6 +18,8 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pnandez&repo=typescript-TDD-boilerplate&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
+<!-- Stats -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnandez&layout=compact)](https://github.com/pnandez/github-readme-stats)
 
 
 <!--
