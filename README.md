@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I´m Pablo, a Junior Software Engineer who just finished my Computer Science degree. I like working on any kind of project, nevertheless I prefer web development as frontend, backend of even Fullstack
+### I´m Pablo, a Junior Software Engineer who just finished my Computer Science degree. I like working on any kind of project, nevertheless I prefer web development as frontend, backend or even Fullstack
 
 ## 💻 Technologies & Interests
   - Java
